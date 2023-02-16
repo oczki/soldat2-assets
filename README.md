@@ -4,9 +4,9 @@ This is a collection of custom assets related to Soldat 2 &ndash; like ranks, we
 
 Each image in here has the same outline width: 4 pixels. This was done to ensure having a clean outline when resized down to 32 px height, while also serving a 2&times; and 4&times; versions to devices with high resolution screens.
 
-Most of these images are used in my [Soldat 2 Active Players website](https://oczki.pl/s2-players), which allows checking the player activity on public servers and in official ranked matches.
+Most of these images are used on my [Soldat 2 Active Players website](https://oczki.pl/s2-players), which allows checking the player activity on public servers and in official ranked matches.
 
-You can [download everything in this repository as a single zip file](https://github.com/oczki/soldat2-assets/archive/refs/heads/main.zip).
+You can [**download everything in this repository** as a single zip file](https://github.com/oczki/soldat2-assets/archive/refs/heads/main.zip).
 
 ---
 
