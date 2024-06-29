@@ -61,6 +61,27 @@ Ranks within each group (e.g. Gold I, Gold II, Gold III) are aligned to each oth
 
 ---
 
+## Room 7158's ranks
+
+Original images by me, drawn in Figma as vectors. The directory contains SVGs and **512&times;512 px** PNGs.
+
+Drawn to be easily recognizable as their assigned rank (from 1 to 8) even at very small sizes, and on both light and dark themes.
+
+Used on the community-driven ranked system, called Room 7158.
+
+### All icons
+ 
+<img src="./Ranks/Room%207158/PNG/rank_1_amateur.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_2_semi_pro.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_3_professional.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_4_expert.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_5_master.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_6_grand_master.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_7_global_elite.png" style="height: 64px">&nbsp;
+<img src="./Ranks/Room%207158/PNG/rank_8_supreme_legend.png" style="height: 64px">&nbsp;
+
+---
+
 ## Weapons
 
 Each image is **328&times;128 px**.
