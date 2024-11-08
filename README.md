@@ -1,3 +1,6 @@
+> [!NOTE]
+> As [Soldat 2 has officially reached end of development](https://store.steampowered.com/news/app/474220/view/4656249009454303927?l=english), this repository is archived and will no longer be maintained.
+
 # Soldat 2 custom image assets
 
 This is a collection of custom assets related to Soldat 2 &ndash; like ranks, weapons and mode icons.
